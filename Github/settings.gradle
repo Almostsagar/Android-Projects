@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "QR Generator App"
